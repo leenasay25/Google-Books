@@ -1,5 +1,5 @@
 # Google-Books
-GoogleBooksApi is an app that use Google Books API in order to help people to search for books and read their details, add them to their favorite list..  
+GoogleBook is an app that use Google Books API in order to help people to search for books and read their details, add them to their favorite list..  
 
 there are two taps in the app each one of them is a feature.
 
